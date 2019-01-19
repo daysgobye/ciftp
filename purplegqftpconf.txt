@@ -1,4 +1,4 @@
 open purpleandbold.gq
 user purpleandbold@purpleandbold.gq 8auY3H[fx_%0
-rename .htaccess daddy.htaccess
+rename _.htaccess .htaccess
 bye
