@@ -1,0 +1,4 @@
+open oneclv.com
+user oneclv@oneclv.com 8auY3H[fx_%0
+rename _.htaccess .htaccess
+bye
