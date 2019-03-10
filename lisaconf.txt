@@ -1,0 +1,4 @@
+open lisabrener.com
+user lisabrener@lisabrener.com 8auY3H[fx_%0
+rename _.htaccess .htaccess
+bye

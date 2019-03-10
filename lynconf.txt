@@ -1,0 +1,4 @@
+open lynsmithgregory.com
+user lynsmithgregory@lynsmithgregory.com 8auY3H[fx_%0
+rename _.htaccess .htaccess
+bye
