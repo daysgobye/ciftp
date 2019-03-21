@@ -1,4 +1,4 @@
-open purpleandbold.com
+open 68.66.224.35
 user purpleandbold@purpleandbold.com 8auY3H[fx_%0
 rename _.htaccess .htaccess
 bye
